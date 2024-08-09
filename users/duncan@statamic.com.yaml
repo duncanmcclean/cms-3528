@@ -1,3 +1,4 @@
-name: Duncan McClean
+name: 'Duncan McClean'
 super: true
-password: password
+id: b4b40196-3c4b-43c5-9b52-ff80e4193f1d
+password_hash: $2y$12$A7ZAn0HRw25TOnBopl6mr.syrQEn3R18k7REl5fugu03i25AhP6ii
